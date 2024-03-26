@@ -55,7 +55,7 @@ customers are ordering, and anything else you can think of.</li>
   </p>
 
   <p>
-    <br>
+    <br><br>
     <b>Tools</b>
     <br><br>
     The data was analyzed using Python and the following supporting libraries:
