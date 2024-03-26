@@ -23,6 +23,20 @@ use simpler price range groupings to help direct their efforts.</li>
 <li>Are there certain types of products that are more popular than others? The marketing
 and sales teams want to know which departments have the highest frequency of
 product orders.</li>
+<li>The marketing and sales teams are particularly interested in the different types of
+customers in their system and how their ordering behaviors differ. For example:
+  <ul>
+    <li>What’s the distribution among users in regards to their brand loyalty (i.e., how
+often do they return to Instacart)?</li>
+<li>Are there differences in ordering habits based on a customer’s loyalty status?</li>
+<li>Are there differences in ordering habits based on a customer’s region?</li>
+<li>Is there a connection between age and family status in terms of ordering habits?</li>
+<li>What different classifications does the demographic information suggest? Age? 
+  Income? Certain types of goods? Family status?</li>
+<li>What differences can you find in ordering habits of different customer
+profiles? Consider the price of orders, the frequency of orders, the products
+customers are ordering, and anything else you can think of.</li>
+
   </UL>
   
 </p>
