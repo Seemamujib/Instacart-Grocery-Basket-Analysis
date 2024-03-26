@@ -36,8 +36,49 @@ often do they return to Instacart)?</li>
 <li>What differences can you find in ordering habits of different customer
 profiles? Consider the price of orders, the frequency of orders, the products
 customers are ordering, and anything else you can think of.</li>
-
   </UL>
-  
-</p>
+  </p>
+  <p>
+<br>
+<b>Data</b>
+<br>
+    The datasets used were:-
+    <br>
+    <ul>
+      <li>Customers</li>
+      <li>Orders</li>
+      <li>Orders_products_prior</li>
+      <li>Products</li>
+      <li>Departments</li>
+      
+    </ul>
+  </p>
+
+  <p>
+    <br>
+    <b>Tools</b>
+    <br>
+    The data was analyzed using Python and the following supporting libraries:
+    <br>
+    <ul>
+      <li>Pandas: for data analysis</li>
+      <li>Numpy: for mathematical equations</li>
+      <li>Seaborn: for data visualizations</li>
+      <li>Matplotlib: for data visualizations</li>
+      <li>SciPy: for mathematical equations</li>
+    </ul>
+   </p>
+   <p>
+     <b>Folders</b>
+     <br>
+     The project files are stored in following folder structure:
+     <br>
+     <ul>
+       <li> 01 Project Management: Project brief</li>
+       <li>02 Data: Separated into two subfolders Original Data which contain the original data frames and Prepared Data contain the data frames after they have been cleaned and prepared for analysis. (Data files not uploaded to GitHub due to size limitations.)</li>
+       <li>03 Scripts: Jupyter notebooks containing coding for the analysis.</li>
+       <li>04 Analysis: Separated into two subfolders Reports and Visualizations. The Reports subfolder contains crosstabs and the Visualizations subfolder contains the visualizations used for developing and explaining insights.</li>
+       <li>05 Sent to Client: The final report presented in Excel</li>
+     </ul>
+   </p>
 
