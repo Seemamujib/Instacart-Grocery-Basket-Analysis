@@ -36,7 +36,7 @@ often do they return to Instacart)?</li>
 <li>What differences can you find in ordering habits of different customer
 profiles? Consider the price of orders, the frequency of orders, the products
 customers are ordering, and anything else you can think of.</li>
-  </UL>
+  </ul>
   </p>
   <p>
 <br>
@@ -55,7 +55,7 @@ customers are ordering, and anything else you can think of.</li>
   </p>
 
   <p>
-    <br><br>
+    <br>
     <b>Tools</b>
     <br><br>
     The data was analyzed using Python and the following supporting libraries:
