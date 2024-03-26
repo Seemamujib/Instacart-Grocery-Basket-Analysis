@@ -50,8 +50,8 @@ customers are ordering, and anything else you can think of.</li>
       <li>Orders_products_prior</li>
       <li>Products</li>
       <li>Departments</li>
-      
-    </ul>
+    </ul>  
+  
   </p>
 
   <p>
