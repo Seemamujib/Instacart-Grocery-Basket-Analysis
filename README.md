@@ -85,7 +85,7 @@ customers are ordering, and anything else you can think of.</li>
    <p>
      <br>
      <b>Resources</b>
-     <br>
+     <br><br>
      Note: Instacart is a real company that’s made their data available online. However, the contents of the attached project brief have been fabricated by CareerFoundry for the purpose of this analysis.
    </p>
 
