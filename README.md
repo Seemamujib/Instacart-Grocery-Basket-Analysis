@@ -69,6 +69,7 @@ customers are ordering, and anything else you can think of.</li>
     </ul>
    </p>
    <p>
+     <br>
      <b>Folders</b>
      <br><br>
      The project files are stored in following folder structure:
