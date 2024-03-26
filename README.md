@@ -12,7 +12,7 @@ Instacart, an online grocery store already has very good sales, but they want to
 <br>
 <p>
 <b>Key Questions</b>
-<br>
+<br><br>
 The sales team needs to know what the busiest days of the week and hours of the day are (i.e., the days and times with the most orders) in order to schedule ads at times when there are fewer orders.
   <UL>
 <li>They also want to know whether there are particular times of the day when people </li>
@@ -41,7 +41,7 @@ customers are ordering, and anything else you can think of.</li>
   <p>
 <br>
 <b>Data</b>
-<br>
+<br><br>
     The datasets used were:-
     <br>
     <ul>
@@ -57,7 +57,7 @@ customers are ordering, and anything else you can think of.</li>
   <p>
     <br>
     <b>Tools</b>
-    <br>
+    <br><br>
     The data was analyzed using Python and the following supporting libraries:
     <br>
     <ul>
@@ -70,15 +70,15 @@ customers are ordering, and anything else you can think of.</li>
    </p>
    <p>
      <b>Folders</b>
-     <br>
+     <br><br>
      The project files are stored in following folder structure:
      <br>
      <ul>
-       <li> 01 Project Management: Project brief</li>
-       <li>02 Data: Separated into two subfolders Original Data which contain the original data frames and Prepared Data contain the data frames after they have been cleaned and prepared for analysis. (Data files not uploaded to GitHub due to size limitations.)</li>
-       <li>03 Scripts: Jupyter notebooks containing coding for the analysis.</li>
-       <li>04 Analysis: Separated into two subfolders Reports and Visualizations. The Reports subfolder contains crosstabs and the Visualizations subfolder contains the visualizations used for developing and explaining insights.</li>
-       <li>05 Sent to Client: The final report presented in Excel</li>
+       <li> <i>01 Project Management</i>: Project brief</li>
+       <li><i>02 Data</i>: Separated into two subfolders Original Data which contain the original data frames and Prepared Data contain the data frames after they have been cleaned and prepared for analysis. (Data files not uploaded to GitHub due to size limitations.)</li>
+       <li><i>03 Scripts</i>: Jupyter notebooks containing coding for the analysis.</li>
+       <li><i>04 Analysis</i>: Separated into two subfolders Reports and Visualizations. The Reports subfolder contains crosstabs and the Visualizations subfolder contains the visualizations used for developing and explaining insights.</li>
+       <li><i>05 Sent to Client</i>: The final report presented in Excel</li>
      </ul>
    </p>
 
