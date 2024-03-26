@@ -78,7 +78,7 @@ customers are ordering, and anything else you can think of.</li>
        <li> <i>01 Project Management</i>: Project brief</li>
        <li><i>02 Data</i>: Separated into two subfolders Original Data which contain the original data frames and Prepared Data contain the data frames after they have been cleaned and prepared for analysis. (Data files not uploaded to GitHub due to size limitations.)</li>
        <li><i>03 Scripts</i>: Jupyter notebooks containing coding for the analysis.</li>
-       <li><i>04 Analysis</i>: Separated into two subfolders Reports and Visualizations. The Reports subfolder contains crosstabs and the Visualizations subfolder contains the visualizations used for developing and explaining insights.</li>
+       <li><i>04 Analysis</i>: The Visualizations subfolder contains the visualizations used for developing and explaining insights.</li>
        <li><i>05 Sent to Client</i>: The final report presented in Excel</li>
      </ul>
    </p>
